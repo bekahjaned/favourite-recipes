@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Granola",
+    "ingredients": [
+      "1 cup rolled oats",
+      "1/4 tsp salt",
+      "1/2 tsp ground cinnamon",
+      "1/4 cup honey",
+      "1/4 cup peanut butter",
+      "1/2 tsp vanilla extract"
+    ],
+    "method": [
+      "Preheat oven to 325˚",
+      "Mix together oats, salt and cinnamon",
+      "Mix together honey, peanut butter and vanilla extract in a pot over low heat or in the microwave",
+      "Combine oat and honey mixtures",
+      "place mixture on parchment paper-lined baking sheets and bake for 20 minutes, stirring the mixture halfway through"
+    ],
+    "category": "baking"
+  },
+  {
+    "name": "Vegan Fudgesicles",
+    "ingredients": [
+      "1 can coconut milk",
+      "1/2 cup cocoa",
+      "1 banana",
+      "1 tbsp maple syrup"
+    ],
+    "method": [
+      "Mix all ingredients together in a blender",
+      "Pour into popsicle molds",
+      "Freeze for at least 4 hours"
+    ],
+    "category": "baking"
+  },
+  {
+    "name": "Korean Beef",
+    "ingredients": [
+      "1 pound lean ground beef",
+      "1 tablespoon sesame oil",
+      "3 cloves garlic , minced",
+      "1 teaspoon fresh ginger , minced",
+      "1/2 cup brown sugar",
+      "1/4 cup lite soy sauce",
+      "1 teaspoon sriracha",
+      "2 green onions , only the green parts",
+      "rice for serving"
+    ],
+    "method": [
+      "Heat a large pan over medium high heat",
+      "Brown the meat with sesame oil, garlic and ginger",
+      "Drain 75% of the fat, add brown sugar, soy sauce, and Sriracha",
+      "Cook until the liquid has reabsorbed and the meat is shiny but not soupy",
+      "Top with green onions, toss together and serve over rice"
+    ],
+    "category": "cooking"
+  },
+  {
+    "name": "Best Ever Banana Muffins",
+    "ingredients": [
+      "3 large bananas",
+      "1 egg",
+      "3/4 cup sugar",
+      "1 tsp baking powder",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "1 1/2 cup flour",
+      "1/3 vegetable oil",
+      "1 cup chocolate chips"
+    ],
+    "method": [
+      "Preheat oven to 375˚ and line a muffin pan with muffin liners",
+      "Mash bananas in a large bowl, add sugar slightly beaten egg",
+      "Add vegetable oil and dry ingredients to mixture",
+      "Mix 1 tbsp of flour to chocolate chips then add them to the mix",
+      "Bake 20 minutes"
+    ],
+    "category": "baking"
+  },
+  {
+    "name": "Swedish Apple Crisp",
+    "ingredients": [
+      "8 apples, peeled and sliced",
+      "1 tsp cinnamon",
+      "1/2 cup water",
+      "1/2 cup brown sugar",
+      "1 cup flour",
+      "1/2 cup rolled oats",
+      "1/2 cup margarine or butter"
+    ],
+    "method": [
+      "Preheat oven to 375˚ and butter a 9x9 inch pan",
+      "Mix together apples, 1/4 cup sugar, water and cinnamon and place into pan",
+      "Mix flour, 1/4 cup sugar, and oats together",
+      "Cut margarine into oat mixture and sprinkle over apples",
+      "Bake 40-45 minutes",
+      "Top with ice cream"
+    ],
+    "category": "baking"
+  },
+  {
+    "name": "Emergency Chocolate Cake",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour",
+      "1/3 cup cocoa powder",
+      "1 cup white sugar",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "1/2 cup coconut oil (or veg. oil)",
+      "1 cup brewed coffee (or just water)",
+      "2 tsp vanilla extract",
+      "2 tbsp white vinegar"
+    ],
+    "method": [
+      "Preheat oven to 375˚",
+      "Combine all ingredients, except vinegar, and whisk until combined",
+      "Add vinegar, the batter will fizz, and stir until combined",
+      "Bake 25-30 minutes"
+    ],
+    "category": "baking"
+  },
+  {
+    "name": "Burgers",
+    "ingredients": [
+      "1 lb ground beef",
+      "1/4 cup parmesan cheese (shredded or grated)",
+      "1/4 cup bread crumbs",
+      "1/2 tsp sea salt",
+      "1/2 tsp black pepper",
+      "1 tsp dried oregano",
+      "1 tsp chili powder OR 1/4 tsp crushed chili peppers",
+      "1 tsp garlic powder",
+      "1 tsp onion powder",
+      "1 tsp paprika",
+      "1 tsp dried parsley"
+    ],
+    "method": [
+      "Mix all ingredients in large bowl",
+      "Shape into patties and grill (or bake in oven 10-20 minutes",
+      "Serve with a fresh bun and your choice of condiments"
+    ],
+    "category": "cooking"
+  },
+  {
+    "name": "Slow-Cooker Applesauce",
+    "ingredients": [
+      "9 apples, peeled and chopped",
+      "1/2 cup water",
+      "1/2 tsp cinnamon",
+      "pinch of nutmeg"
+    ],
+    "method": [
+      "Add all ingredients to slow-cooker and cook on high for 2 hour or on low for 4 hours",
+      "You can eat as is or use an immersion blender to make sauce less chunky"
+    ],
+    "category": "cooking"
+  }
+]
