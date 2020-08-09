@@ -1,0 +1,16 @@
+ul,
+ol,
+h4 {
+  margin: 5px;
+  font-family: "Open Sans", sans-serif;
+}
+
+li {
+  margin-bottom: 2px;
+}
+
+h3 {
+  margin: 5px;
+  font-family: "Libre Baskerville", serif;
+  text-decoration: underline;
+}
