@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Recipe Card 1`] = `
+<div
+  className="sc-AxjAm hDhnSf"
+>
+  <h3>
+    name
+  </h3>
+  <div>
+    <h4>
+      Ingredients:
+    </h4>
+    <ul>
+      <li>
+        one
+      </li>
+      <li>
+        two
+      </li>
+      <li>
+        three
+      </li>
+    </ul>
+  </div>
+  <div>
+    <h4>
+      Method:
+    </h4>
+    <ol>
+      <li>
+        one
+      </li>
+      <li>
+        two
+      </li>
+      <li>
+        three
+      </li>
+    </ol>
+  </div>
+</div>
+`;
